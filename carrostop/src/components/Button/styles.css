@@ -1,0 +1,17 @@
+
+
+
+
+.ct-button {
+    height: 40px;
+    width: 100%;
+    background-color: var(--ct-color-bg-tertiary);
+    color: var(--ct-color-font-quaternary);
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
