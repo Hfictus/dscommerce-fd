@@ -1,9 +1,10 @@
 
 
 
+import ProductShowcase from "./routes/ProductShowcase";
 
 export default function App() {
   return (
-    <h1>Projeto de teste limpo, pronto para construção de sistema</h1>  
+    <ProductShowcase />
   )
 }
