@@ -1,0 +1,25 @@
+
+
+
+.dsct-card-container {
+    max-width: 746px;
+    background-color: var(--dsct-color-bg-tertiary);
+    padding: 10px;
+    border: 1px solid var(--dsct-color-border-primary);
+    border-radius: 10px;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dsct-card-container img {
+    width: 100%;
+    max-width: 391px;
+}
+
+.dsct-card-container h3 {
+    font-size: 16px;
+    color: var(--dsct-color-font-secondary);
+    margin-top: 9.54px;
+}

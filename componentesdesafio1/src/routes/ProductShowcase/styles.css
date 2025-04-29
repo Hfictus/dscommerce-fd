@@ -1,0 +1,21 @@
+
+
+
+#dsct-cars-section {
+    background-color: var(--dsct-color-bg-primary);
+    padding: 25px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    font-size: 20px;
+    color: var(--dsct-color-font-secondary);
+}
+
+@media (min-width: 992px) {
+    h2 {
+        font-size: 32px;
+    }
+}
