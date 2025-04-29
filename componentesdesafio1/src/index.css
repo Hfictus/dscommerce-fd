@@ -17,8 +17,17 @@ display=swap');
 
 
 :root {
-    --dsct-color-bg-primary: #fff;
+    --dsct-color-bg-primary: #FFFFFF;
+    --dsct-color-bg-secondary: #3C9AF0;
+
+    --dsct-color-font-primary: #FFFFFF;
 }
+
+/*
+  tertiary
+  quaternary
+*/
+
 
 * {
     box-sizing: border-box;
@@ -33,14 +42,10 @@ html, body {
 
 .dsct-container {
     width: 100%;
+    max-width: 960px;
+    /*border: 1px solid red;*/
+    margin: 0 auto;
 }
-
-/*largura máxima a ser adicionada a componentes:
-products-container:
-    max-width: 746px;
-messages-and-footer-container:
-        max-width: 960px;
-*/
 
 
 /*para o link do rodapé

@@ -14,7 +14,7 @@ export default function ProductShowcase() {
                 <section></section>
                 <section></section>
             </main>
-            //footer
+            
         </>
     );
 }
