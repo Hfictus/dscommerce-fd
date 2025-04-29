@@ -1,0 +1,15 @@
+
+
+
+.dsct-message-container {
+    background-color: var(--dsct-color-bg-primary);
+    padding: 25px 20px;
+    border-radius: 12px;
+    border: 1px solid var(--dsct-color-border-primary);
+    margin-top: 25px;
+}
+
+p {
+    font-size: 16px;
+    color: var(--dsct-color-font-tertiary);
+}

@@ -4,6 +4,7 @@
 import './styles.css';
 import Header from '../../components/Header';
 import CarCard from '../../components/CarCard';
+import MessageCard from '../../components/MessageCard';
 
 
 
@@ -19,7 +20,11 @@ export default function ProductShowcase() {
                 </section>
                 <section id="dsct-messages-section">
                     <h2>O que estão dizendo</h2>
-
+                    <MessageCard />
+                    <MessageCard />
+                    <MessageCard />
+                    <MessageCard />
+                    <MessageCard />
                 </section>
             </main>
             

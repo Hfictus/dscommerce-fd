@@ -6,17 +6,14 @@
     --dsct-color-bg-primary: #FFFFFF;
     --dsct-color-bg-secondary: #3C9AF0;
     --dsct-color-bg-tertiary: #D9D9D9;
+    --dsct-color-bg-quaternary: #C8C8C8;
 
     --dsct-color-font-primary: #FFFFFF;
     --dsct-color-font-secondary: #5E5E5E;
+    --dsct-color-font-tertiary: #3C9AF0;
 
     --dsct-color-border-primary: #3C9AF0;
 }
-
-/*
-  quaternary
-*/
-
 
 * {
     box-sizing: border-box;
