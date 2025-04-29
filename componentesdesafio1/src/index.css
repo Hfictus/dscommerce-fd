@@ -32,9 +32,6 @@ html, body {
     margin: 0 auto;
 }
 
-/*para o link do rodapé
-a, a:hover {
+a {
     text-decoration: none;
-    color: unset;
 }
-*/

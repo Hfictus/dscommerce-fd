@@ -5,6 +5,7 @@ import './styles.css';
 import Header from '../../components/Header';
 import CarCard from '../../components/CarCard';
 import MessageCard from '../../components/MessageCard';
+import Footer from '../../components/Footer';
 
 
 
@@ -27,7 +28,7 @@ export default function ProductShowcase() {
                     <MessageCard />
                 </section>
             </main>
-            
+            <Footer />
         </>
     );
 }

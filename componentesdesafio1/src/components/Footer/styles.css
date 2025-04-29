@@ -1,0 +1,35 @@
+
+
+footer {
+    height: 120px;
+    background-color: var(--dsct-color-bg-secondary);
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.dsct-footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a, p {
+    font-size: 16px;
+    color: var(--dsct-color-font-primary);
+}
+p {
+    margin-top: 10px;
+}
+
+@media (min-width: 992px) {
+    .dsct-footer-container {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    p {
+        margin-top: 0px;
+    }
+    
+}
