@@ -1,6 +1,10 @@
 
 
 
+header {
+    padding: 0px 20px;
+}
+
 #dsct-cars-section {
     background-color: var(--dsct-color-bg-primary);
     padding: 25px 20px;
@@ -28,4 +32,8 @@ h2 {
 #dsct-messages-section h2 {
     display: flex;
     justify-content: center;
+}
+
+footer {
+    padding: 0px 20px;
 }

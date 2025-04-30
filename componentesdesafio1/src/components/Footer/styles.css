@@ -3,7 +3,6 @@
 footer {
     height: 120px;
     background-color: var(--dsct-color-bg-secondary);
-    padding: 0px 20px;
     display: flex;
     align-items: center;
 }
