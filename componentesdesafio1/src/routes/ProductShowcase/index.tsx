@@ -16,8 +16,10 @@ export default function ProductShowcase() {
             <main>
                 <section id="dsct-cars-section">
                     <h2>Venha nos visitar</h2>
-                    <CarCard />
-                    <CarCard />
+                    <div className="dsct-cards-car-container">
+                        <CarCard />
+                        <CarCard />
+                    </div>
                 </section>
                 <section id="dsct-messages-section">
                     <h2>O que estão dizendo</h2>
