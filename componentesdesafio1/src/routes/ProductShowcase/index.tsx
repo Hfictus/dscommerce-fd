@@ -23,11 +23,13 @@ export default function ProductShowcase() {
                 </section>
                 <section id="dsct-messages-section">
                     <h2>O que estão dizendo</h2>
-                    <MessageCard />
-                    <MessageCard />
-                    <MessageCard />
-                    <MessageCard />
-                    <MessageCard />
+                    <div className="dsct-cards-message-container">
+                        <MessageCard />
+                        <MessageCard />
+                        <MessageCard />
+                        <MessageCard />
+                        <MessageCard />
+                    </div>
                 </section>
             </main>
             <Footer />

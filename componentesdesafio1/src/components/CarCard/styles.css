@@ -23,6 +23,10 @@
 }
 
 @media (min-width: 992px) {
+    .dsct-car-container {
+        padding: 20px 0px;
+    }
+    
     .dsct-car-container h3 {
         font-size: 20px;
         margin-top: 10px;

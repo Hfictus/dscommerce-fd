@@ -21,7 +21,7 @@ p {
     margin-top: 10px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     .dsct-footer-container {
         flex-direction: row;
         justify-content: space-between;
